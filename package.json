@@ -1,5 +1,5 @@
 {
-  "name": "Nodejs_mongo_REST_APIs",
+  "name": "Nodejs_MongoDB_REST_APIs",
   "version": "1.0.0",
   "description": "Simple CRUD(Create, Read, Update, Delete) operations for simplet e-commerce cart with user authentication.",
   "main": "server.js",
