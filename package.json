@@ -1,0 +1,17 @@
+{
+  "name": "Nodejs_mongo_REST_APIs",
+  "version": "1.0.0",
+  "description": "Simple CRUD(Create, Read, Update, Delete) operations for simplet e-commerce cart with user authentication.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-foreach": "^0.1.3",
+    "bcryptjs": "^2.3.0",
+    "mongodb": "^2.0.48",
+    "routes": "^2.1.0"
+  }
+}
